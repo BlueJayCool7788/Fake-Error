@@ -1,0 +1,18 @@
+Make A Fake Error
+Step 1 Use This Starter Code: X=MsgBox("Message Description",0+16,"Title")
+Step 2 Use This Key: Write any number from 1,2,3 or 4 instead of 0 (before the '+' symbol) 
+
+0 = OK Button, 
+1 = OK / Cancel Button, 
+2 = Abort / Retry / Ignore Button, 
+3 = Yes / No / Cancel Button, 
+4 = Yes / No Button, 
+5 = Retry / Cancel Button
+
+You can write 32 or 48 or 64 instead of 16.
+Below is the meaning of each number:
+
+16 = Critical Icon, 
+32 = Help Icon, 
+48 = Warning Icon, 
+64 = Information Icon,
